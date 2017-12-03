@@ -1,0 +1,58 @@
+[
+  {
+    "Vnev": "Nagy",
+    "Knev": "Géza",
+    "Kor": "54",
+    "Nem": "Férfi"
+  },
+
+    {
+    "Vnev": "Kiss",
+    "Knev": "Júlia",
+    "Kor": "32",
+    "Nem": "Nő"
+  },
+
+    {
+    "Vnev": "Buga",
+    "Knev": "József",
+    "Kor": "27",
+    "Nem": "Férfi"
+  },
+
+    {
+    "Vnev": "Kovács",
+    "Knev": "Vivien",
+    "Kor": "20",
+    "Nem": "Nő"
+  },
+
+  {
+    "Vnev": "nemecsek",
+    "Knev": "ernő",
+    "Kor": "18",
+    "Nem": "Férfi"
+  },
+
+  {
+    "Vnev": "Édes",
+    "Knev": "Anna",
+    "Kor": "23",
+    "Nem": "Nő"
+  },
+
+   {
+    "Vnev": "Erős",
+    "Knev": "Pista",
+    "Kor": "43",
+    "Nem": "Férfi"
+  },
+
+   {
+    "Vnev": "Lakatos",
+    "Knev": "Izaura",
+    "Kor": "30",
+    "Nem": "Nő"
+  }
+
+]
